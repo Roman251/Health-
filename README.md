@@ -19,7 +19,7 @@ Flasgger
 
 # Interface
 
-![](Images/User_Interface.png)
+<img src="Images/User_Interface.png" width="200" >
 
 ![](Images/test_01.png)
 
