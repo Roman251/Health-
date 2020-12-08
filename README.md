@@ -19,12 +19,14 @@ Flasgger
 
 # Interface
 
-<img src="Images/User_Interface.png" width="200" >
+<img src="Images/User_Interface.png" width="800">
 
-![](Images/test_01.png)
+<img src="Images/test_01.png" width="800">
 
-![](Images/test_02.png)
+<img src="Images/test_02.png" width="800">
 
-![](Images/test_03.png)
+<img src="Images/test_03.png" width="800">
+
+
 
 
