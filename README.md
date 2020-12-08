@@ -4,18 +4,18 @@ This project is an end to end data science project that is able to predict if th
 
 # Dataset Used
 
-Breast Cancer: Winconsin Breast Cancer Dataset
-Diabetes: Pima Indian Diabetes Dataset
-Liver: Indian Patient Liver Records
-Heart: Heart Disease Dataset
-Kidney: Chronic Kidney Disease Dataset
+Breast Cancer: Winconsin Breast Cancer Dataset<br>
+Diabetes: Pima Indian Diabetes Dataset<br>
+Liver: Indian Patient Liver Records<br>
+Heart: Heart Disease Dataset<br>
+Kidney: Chronic Kidney Disease Dataset<br>
 
 # Libraries Used:
-Sci-kit Learn
-Flask
-Pandas
-Numpy
-Flasgger 
+Sci-kit Learn<br>
+Flask<br>
+Pandas<br>
+Numpy<br>
+Flasgger <br>
 
 # Interface
 
