@@ -21,11 +21,6 @@ Flasgger <br>
 
 <img src="Images/User_Interface.png" width="800">
 
-<img src="Images/test_01.png" width="800">
-
-<img src="Images/test_02.png" width="800">
-
-<img src="Images/test_03.png" width="800">
 
 
 
