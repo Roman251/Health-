@@ -19,7 +19,7 @@ Flasgger <br>
 
 # interface
 
-<img src="Images/User_Interface.png" width="800">
+<img src="imgs/interface.png" width="800">
 
 
 
